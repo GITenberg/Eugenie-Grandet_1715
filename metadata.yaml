@@ -1,0 +1,76 @@
+_repo: Eugenie-Grandet_1715
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wormeley, Katharine Prescott
+    birthdate: 1830
+    deathdate: 1908
+    gutenberg_agent_id: '661'
+    url: http://www.gutenberg.org/2009/agents/661
+    wikipedia: http://en.wikipedia.org/wiki/Katherine_Prescott_Wormeley
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - De Balzac, Honoré
+    - Saint-Aubin, Horace de
+    - Balzac, H. de (Honoré de)
+    - Balzac, Honore de
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+description: "Eugénie Grandet is an 1833 novel by French author Honoré de Balzac about\
+  \ miserliness, and how it is bequeathed from the father to the daughter, Eugénie,\
+  \ through her unsatisfying love attachment with her cousin. As is usual with Balzac,\
+  \ all the characters in the novel are fully realized. Balzac conceived his ambitious\
+  \ project, The Human Comedy, while writing Eugénie Grandet and incorporated it into\
+  \ the Comédie by revising the names of some of the characters in the second edition,\
+  \ which he also dedicated to Maria Du Fresnay, his then-lover and mother of his\
+  \ daughter Marie-Caroline Du Fresnay, and, as was proved later on, the \"real\"\
+  \ Eugénie Grandet.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1715'
+  wikidata: Q1373644
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
+title: Eugenie Grandet
+url: http://www.gutenberg.org/ebooks/1715
+wikipedia:
+- https://eo.wikipedia.org/wiki/E%C5%ADgenino_Grandet
+- https://fa.wikipedia.org/wiki/%DB%8C%D9%88%DA%98%DB%8C%D9%86%DB%8C_%DA%AF%D8%B1%D8%A7%D9%86%D8%AF%D9%87
+- https://vi.wikipedia.org/wiki/Eug%C3%A9nie_Grandet
+- https://en.wikisource.org/wiki/Eug%C3%A9nie_Grandet
+- https://el.wikipedia.org/wiki/%CE%95%CF%85%CE%B3%CE%B5%CE%BD%CE%AF%CE%B1_%CE%93%CE%BA%CF%81%CE%B1%CE%BD%CF%84%CE%AD
+- https://ro.wikisource.org/wiki/Eug%C3%A9nie_Grandet
+- https://gl.wikipedia.org/wiki/Eug%C3%A9nie_Grandet
+- https://fr.wikisource.org/wiki/Eug%C3%A9nie_Grandet
+- https://pt.wikipedia.org/wiki/Eug%C3%A8nie_Grandet
+- https://es.wikipedia.org/wiki/Eugenia_Grandet
+- https://en.wikipedia.org/wiki/Eug%C3%A9nie_Grandet
+- https://ru.wikipedia.org/wiki/%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D1%8F_%D0%93%D1%80%D0%B0%D0%BD%D0%B4%D0%B5
+- https://ko.wikipedia.org/wiki/%EC%99%B8%EC%A0%9C%EB%8B%88_%EA%B7%B8%EB%9E%91%EB%8D%B0
+- https://fr.wikipedia.org/wiki/Eug%C3%A9nie_Grandet
+- https://zh.wikipedia.org/wiki/%E6%AC%A7%E4%B9%9F%E5%A6%AE%C2%B7%E8%91%9B%E6%9C%97%E5%8F%B0
+- https://pl.wikipedia.org/wiki/Eugenia_Grandet
+- https://es.wikisource.org/wiki/Eugenia_Grandet
+- https://sv.wikipedia.org/wiki/Eug%C3%A9nie_Grandet
+- https://ar.wikipedia.org/wiki/%D8%A3%D9%88%D8%AC%D9%8A%D9%86%D9%8A_%D8%BA%D8%B1%D8%A7%D9%86%D8%AF%D9%8A
+- https://nl.wikipedia.org/wiki/Eug%C3%A9nie_Grandet
+- https://de.wikipedia.org/wiki/Eug%C3%A9nie_Grandet
+- https://bg.wikipedia.org/wiki/%D0%99%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8_%D0%93%D1%80%D0%B0%D0%BD%D0%B4%D0%B5
+- https://it.wikipedia.org/wiki/Eugenia_Grandet_(romanzo)
+- https://ca.wikipedia.org/wiki/Eug%C3%A9nie_Grandet
+- https://tr.wikipedia.org/wiki/Eug%C3%A9nie_Grandet
